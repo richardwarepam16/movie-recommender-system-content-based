@@ -1,4 +1,4 @@
-# movie-recommender-system-content-based
+# Movie-Recommender-System-Content-based
 
 1. **Language used**: Python
 2. **Software Requirement**: Jupyter Notebook and PyCharm
